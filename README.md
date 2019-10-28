@@ -1,6 +1,5 @@
 # README
-## how to use Git Hub Desktop
-## how to user git revert
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
